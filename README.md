@@ -11,7 +11,8 @@ are usually enough) copied from the git log.
 It's common for a repo to have instructions for
 running a project locally or deploying a production
 instance. This one is just a single html page that
-imports a single css page.
+imports a single css page, so there's not really
+anything to set up!
 
 If you don't already have a preferred tool for a local
 development server for static sites, I recommend using
