@@ -6,7 +6,7 @@
 :root {
   --main-width: 600px;
   --wide-add: 64px;
-  --main-background: #c54374;
+  --main-background: #15cdd4;
   --accent-background: #fefade;
   --accent-background: hsl(from var(--main-background) calc(h - 18) s 90);
 }
