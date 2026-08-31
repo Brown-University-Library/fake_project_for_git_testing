@@ -11,8 +11,10 @@
   --accent-background: hsl(from var(--main-background) calc(h - 18) s 90);
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;500;600;700&display=swap');
+
 body {
-  font-family: sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 1.2em;
   padding-block-end: 60px;
 }
@@ -27,6 +29,9 @@ h1 {
   padding-block: 32px 16px;
   font-size: clamp(32px, 3em, 65px);
   text-wrap: balance;
+}
+p {
+  line-height: 1.5;
 }
 
 body {
